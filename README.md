@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sirajul Islam</h1>
-<h3 align="center">🚀 Digital Marketer | 💻 Developer | 🤖 AI & ML Enthusiast</h3>
+<h3 align="center"> 💻 Developer | 🤖 AI & ML Enthusiast</h3>
 
 ---
 
