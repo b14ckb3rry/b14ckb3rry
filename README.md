@@ -47,9 +47,11 @@
 ## 🤝 Let's Connect
 
 - 🌐 GitHub: [b14ckb3rry](https://github.com/b14ckb3rry)
+- 💼 LinkedIn: [Md. Sirajul Islam](https://www.linkedin.com/in/sirajul-islam20)
+- 📘 Facebook: [Sirajul Islam](https://www.facebook.com/sirajul.islam.20)
+- 🎮 Discord: sirajulislam.
 - 💬 Always open to collaboration and innovative ideas!
 
----
 
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
