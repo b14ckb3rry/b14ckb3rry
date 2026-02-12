@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sirajul Islam</h1>
 <h3 align="center">🚀 Digital Marketer | 💻 Developer | 🤖 AI & ML Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/b14ckb3rry">
-    <img src="https://komarev.com/ghpvc/?username=b14ckb3rry&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🌟 About Me
 
 - 🎓 Passionate learner who loves exploring **new technologies**
 - 🧠 Currently diving deep into **AI, Machine Learning & Signal Systems**
-- 💻 Building projects using **PHP, MySQL, JavaScript, Python & OpenGL**
+- 💻 Building projects using **PHP, MySQL, JavaScript & Python**
 - 📈 Interested in **Binary Trading Signal Systems & MT4/MT5 Development**
 - ✍️ Love debates, journalism, poetry & exploring creative ideas
 
@@ -26,12 +20,6 @@
 - PHP | MySQL  
 - Python  
 - C / C++
-
-### 📊 Digital Marketing & SEO
-- YouTube SEO  
-- Google Ads & Ads Manager  
-- Pinterest Marketing  
-- Webpage SEO Optimization  
 
 ### 🤖 AI & Data
 - Machine Learning Models  
@@ -65,4 +53,9 @@
 
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
+</p>
+<p align="center">
+  <a href="https://github.com/b14ckb3rry">
+    <img src="https://komarev.com/ghpvc/?username=b14ckb3rry&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
