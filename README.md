@@ -8,7 +8,6 @@
 - 🎓 Passionate learner who loves exploring **new technologies**
 - 🧠 Currently diving deep into **AI, Machine Learning & Signal Systems**
 - 💻 Building projects using **PHP, MySQL, JavaScript & Python**
-- 📈 Interested in **Binary Trading Signal Systems & MT4/MT5 Development**
 - ✍️ Love debates, journalism, poetry & exploring creative ideas
 
 ---
